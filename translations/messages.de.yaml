@@ -1,0 +1,13 @@
+sylius:
+    form:
+        admin:
+            channel:
+                lowest_price_for_discounted_products_visible: 'Soll der niedrigste Preis von reduzierten Produkten vor dem aktuellen Rabatt angezeigt werden?'
+                period_for_which_the_lowest_price_is_calculated: 'Zeitraum, für den der niedrigste Preis berechnet wird'
+    ui:
+        channel_pricing_history: 'Preishistorie für den Kanal'
+        days: 'Tage'
+        price_history: 'Preishistorie'
+        show_history_for_channel_pricing: 'Historie für die Kanalpreisgestaltung anzeigen'
+        taxons_for_which_the_lowest_price_is_not_displayed: 'Taxonomien, für die der niedrigste Preis nicht angezeigt wird'
+        lowest_price_before_discount: 'Niedrigster Preis vor Rabatt'

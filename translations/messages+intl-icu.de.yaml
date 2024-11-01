@@ -1,0 +1,5 @@
+sylius:
+    ui:
+        lowest_price_days_before_discount_was: '{days, plural, 
+            one {Der niedrigste Preis dieses Produkts war vor # Tag vor dem aktuellen Rabatt {price}} 
+            other {Der niedrigste Preis dieses Produkts war vor # Tagen vor dem aktuellen Rabatt {price}}}'

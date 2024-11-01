@@ -1,0 +1,5 @@
+sylius:
+    channel_price_history_config:
+        lowest_price_for_discounted_products_checking_period:
+            greater_than: 'Der Wert muss größer sein als {{ compared_value }}'
+            less_than: 'Der Wert muss kleiner sein als {{ compared_value }}'
